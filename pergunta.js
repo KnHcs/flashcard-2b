@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Vasco',
-    'Quem fundo o Vasco?',
-    'Mateus Ferreira Biazzeto',
+    'Quem fundou o Vasco?',
+    'Mc poze do rodo',
 )
 
 criaCartao(
@@ -25,11 +25,11 @@ criaCartao(
 criaCartao(
     'História',
     'Quem descobriu o Brasil?',
-    'Pedrinho matador'
+    'Kauan Correa'
 )
 
 criaCartao(
     'Futebol',
     'Quem construiu o estádio do Vasco?',
-    'Conserta Felix'
+    'Gabriel vanalli'
 )
