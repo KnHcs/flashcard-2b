@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação 2.0',
-    'O que é phyton?',
-    'O phyton é uma linguagem de progamação'
+    'Brasil' ,
+    'Quem descobriu o Brasil?' ,
+    'Jonh Vlogs'
 )
 
 criaCartao(
-    'Vasco',
-    'Quem fundou o Vasco?',
-    'Mc poze do rodo',
+    'Fortuna' ,
+    'Quem é a pessoa mais rica do mundo?' ,
+    'Elon Musk'
 )
 
 criaCartao(
-    'Batata',
-    'Quem plantou batata em contenda?',
-    'Mateus Ferreira Biazzeto'
+    'Rei Leão' ,
+    'Qual o animal principal do Rei Leão?' ,
+    'Cabra'
 )
 
 criaCartao(
-    'Futebol',
-    'Quem é conhecido por ser pai do Flamengo?',
-    'O vasco'
+    'Descoberta' ,
+    'Quem descobriu a America' ,
+    'P. Diddy'
 )
 
 criaCartao(
-    'História',
-    'Quem descobriu o Brasil?',
-    'Kauan Correa'
+    'Grota' ,
+    'Quem é dono da Grota no Rp?' ,
+    'Douglinhas'
 )
 
 criaCartao(
-    'Futebol',
-    'Quem construiu o estádio do Vasco?',
-    'Gabriel vanalli'
+    'Distante' ,
+    'Qual pais mais distante do Brasil' ,
+    'Peru'
 )
